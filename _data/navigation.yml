@@ -1,5 +1,5 @@
 - name: home
   link: /
-- name: blog
+- name: memo
   link: blog.html
 
