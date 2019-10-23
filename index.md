@@ -10,7 +10,6 @@ title: Home
 
 [河野](https://hiroto-s.github.io/jekyll_blog/blog.html)
 
-[中野]()
 
 [オムリ](https://youssefomri.github.io/r4nd/blog.html)
 
